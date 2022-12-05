@@ -1,0 +1,22 @@
+h1 {
+    color:brown;  
+   } 
+   * {
+    border:solid; 
+   }
+
+   .header {
+   background-color: #791818;
+   display: flex;
+   justify-content: space-between;
+   }
+
+   .grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   }
+
+   p,h2{
+    text-align: center;
+   }
